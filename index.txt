@@ -1,3 +1,2 @@
-a
-b
-c
+file yang dijadikan home pada webnya
+- file index
